@@ -13,4 +13,3 @@ Learning reusable SQL blocks
 ## How to run
 1.  Ensure you have run the `Day_1.sql` (Task 1) and `Day_2.sql` (Task 2) scripts.
 2.  Open and run this `Day_8.sql` script to create the procedure and function.
-3.  You can then use them as shown in the "HOW TO USE THEM" section at the bottom of the script.
